@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/utils.h
+
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/src/fs_cache.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+unistd.h
+-
+inttypes.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+utils.h
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/src/utils.h
+

@@ -1,0 +1,9 @@
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/rebuild_cache.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/main.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/edit_cache.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/server_conn.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/client_conn.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/client_bw.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/server_bw.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/server_rtt.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/network/build/CMakeFiles/client_rtt.dir

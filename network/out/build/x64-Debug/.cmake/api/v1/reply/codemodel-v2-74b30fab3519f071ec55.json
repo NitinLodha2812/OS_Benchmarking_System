@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "network",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client_bw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_bw-Debug-182c6c7d5633f27397cf.json",
+					"name" : "client_bw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_conn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_conn-Debug-b4a4c42f6afb787d2392.json",
+					"name" : "client_conn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_rtt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_rtt-Debug-d3da8d343966d64daeba.json",
+					"name" : "client_rtt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-4ec02f8d9be309a25b89.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_bw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_bw-Debug-6a40ec532c2856b7ce8f.json",
+					"name" : "server_bw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_conn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_conn-Debug-85ccca94f15212919b54.json",
+					"name" : "server_conn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_rtt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_rtt-Debug-b639465b33ed7e2a8e7b.json",
+					"name" : "server_rtt",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "J:/CSE - VIT/Projects/OS/Final/OS_Benchmark/network/out/build/x64-Debug",
+		"source" : "J:/CSE - VIT/Projects/OS/Final/OS_Benchmark/network"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,3 @@
+J:/CSE - VIT/Projects/OS/Final/OS_Benchmark/mem/out/build/x64-Debug/CMakeFiles/mem.dir
+J:/CSE - VIT/Projects/OS/Final/OS_Benchmark/mem/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+J:/CSE - VIT/Projects/OS/Final/OS_Benchmark/mem/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

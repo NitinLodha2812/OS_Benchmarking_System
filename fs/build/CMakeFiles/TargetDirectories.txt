@@ -1,0 +1,5 @@
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/build/CMakeFiles/edit_cache.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/build/CMakeFiles/fs_con.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/build/CMakeFiles/fs_cache.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/build/CMakeFiles/rebuild_cache.dir
+/mnt/j/CSE-VIT/Projects/OS/Final/OS_Benchmark/fs/build/CMakeFiles/fs_seq_rand.dir
