@@ -1,4 +1,4 @@
-# CSE 221 Operating systems project UCSD
+# CSE Operating systems project
 
 OS performance benchmarking project
 
